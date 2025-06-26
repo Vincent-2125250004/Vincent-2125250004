@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, and Data Sciences**
 
-- 💬 Ask me about **Flutter, Python, Laravel, and Kotlin**
+- 💬 Ask me about **Flutter, Python, Laravel, GoLang, Svelte, and Kotlin**
 
 - 📫 How to reach me **vincentpin66@gmail.com**
 
